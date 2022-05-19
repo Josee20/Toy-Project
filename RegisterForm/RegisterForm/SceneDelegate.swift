@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  VisualBookManager
+//  RegisterForm
 //
-//  Created by 이동기 on 2022/05/12.
+//  Created by 이동기 on 2022/05/19.
 //
 
 import UIKit

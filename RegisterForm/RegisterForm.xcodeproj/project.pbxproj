@@ -7,31 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		49DCCC4C282CEDDC00C082F4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49DCCC4B282CEDDC00C082F4 /* AppDelegate.swift */; };
-		49DCCC4E282CEDDC00C082F4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49DCCC4D282CEDDC00C082F4 /* SceneDelegate.swift */; };
-		49DCCC50282CEDDC00C082F4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49DCCC4F282CEDDC00C082F4 /* ViewController.swift */; };
-		49DCCC53282CEDDC00C082F4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49DCCC51282CEDDC00C082F4 /* Main.storyboard */; };
-		49DCCC55282CEDDE00C082F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 49DCCC54282CEDDE00C082F4 /* Assets.xcassets */; };
-		49DCCC58282CEDDE00C082F4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49DCCC56282CEDDE00C082F4 /* LaunchScreen.storyboard */; };
-		49DCCC63282CF50B00C082F4 /* BookManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49DCCC60282CF50B00C082F4 /* BookManager.swift */; };
-		49DCCC64282CF50B00C082F4 /* Book.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49DCCC61282CF50B00C082F4 /* Book.swift */; };
+		49AC1F5A28367BB20068D54D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49AC1F5928367BB20068D54D /* AppDelegate.swift */; };
+		49AC1F5C28367BB20068D54D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49AC1F5B28367BB20068D54D /* SceneDelegate.swift */; };
+		49AC1F5E28367BB20068D54D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49AC1F5D28367BB20068D54D /* ViewController.swift */; };
+		49AC1F6128367BB20068D54D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49AC1F5F28367BB20068D54D /* Main.storyboard */; };
+		49AC1F6328367BB30068D54D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 49AC1F6228367BB30068D54D /* Assets.xcassets */; };
+		49AC1F6628367BB30068D54D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49AC1F6428367BB30068D54D /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		49DCCC48282CEDDC00C082F4 /* VisualBookManager.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VisualBookManager.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		49DCCC4B282CEDDC00C082F4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		49DCCC4D282CEDDC00C082F4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		49DCCC4F282CEDDC00C082F4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		49DCCC52282CEDDC00C082F4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		49DCCC54282CEDDE00C082F4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		49DCCC57282CEDDE00C082F4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		49DCCC59282CEDDE00C082F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		49DCCC60282CF50B00C082F4 /* BookManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = BookManager.swift; path = ../../BookManager/BookManager/BookManager.swift; sourceTree = "<group>"; };
-		49DCCC61282CF50B00C082F4 /* Book.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Book.swift; path = ../../BookManager/BookManager/Book.swift; sourceTree = "<group>"; };
+		49AC1F5628367BB20068D54D /* RegisterForm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RegisterForm.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		49AC1F5928367BB20068D54D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		49AC1F5B28367BB20068D54D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		49AC1F5D28367BB20068D54D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		49AC1F6028367BB20068D54D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		49AC1F6228367BB30068D54D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		49AC1F6528367BB30068D54D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		49AC1F6728367BB30068D54D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		49DCCC45282CEDDC00C082F4 /* Frameworks */ = {
+		49AC1F5328367BB20068D54D /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -41,74 +37,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		49DCCC3F282CEDDB00C082F4 = {
+		49AC1F4D28367BB20068D54D = {
 			isa = PBXGroup;
 			children = (
-				49DCCC4A282CEDDC00C082F4 /* VisualBookManager */,
-				49DCCC49282CEDDC00C082F4 /* Products */,
+				49AC1F5828367BB20068D54D /* RegisterForm */,
+				49AC1F5728367BB20068D54D /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		49DCCC49282CEDDC00C082F4 /* Products */ = {
+		49AC1F5728367BB20068D54D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				49DCCC48282CEDDC00C082F4 /* VisualBookManager.app */,
+				49AC1F5628367BB20068D54D /* RegisterForm.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		49DCCC4A282CEDDC00C082F4 /* VisualBookManager */ = {
+		49AC1F5828367BB20068D54D /* RegisterForm */ = {
 			isa = PBXGroup;
 			children = (
-				49DCCC4B282CEDDC00C082F4 /* AppDelegate.swift */,
-				49DCCC4D282CEDDC00C082F4 /* SceneDelegate.swift */,
-				49DCCC4F282CEDDC00C082F4 /* ViewController.swift */,
-				49DCCC61282CF50B00C082F4 /* Book.swift */,
-				49DCCC60282CF50B00C082F4 /* BookManager.swift */,
-				49DCCC51282CEDDC00C082F4 /* Main.storyboard */,
-				49DCCC54282CEDDE00C082F4 /* Assets.xcassets */,
-				49DCCC56282CEDDE00C082F4 /* LaunchScreen.storyboard */,
-				49DCCC59282CEDDE00C082F4 /* Info.plist */,
+				49AC1F5928367BB20068D54D /* AppDelegate.swift */,
+				49AC1F5B28367BB20068D54D /* SceneDelegate.swift */,
+				49AC1F5D28367BB20068D54D /* ViewController.swift */,
+				49AC1F5F28367BB20068D54D /* Main.storyboard */,
+				49AC1F6228367BB30068D54D /* Assets.xcassets */,
+				49AC1F6428367BB30068D54D /* LaunchScreen.storyboard */,
+				49AC1F6728367BB30068D54D /* Info.plist */,
 			);
-			path = VisualBookManager;
+			path = RegisterForm;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		49DCCC47282CEDDC00C082F4 /* VisualBookManager */ = {
+		49AC1F5528367BB20068D54D /* RegisterForm */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 49DCCC5C282CEDDE00C082F4 /* Build configuration list for PBXNativeTarget "VisualBookManager" */;
+			buildConfigurationList = 49AC1F6A28367BB30068D54D /* Build configuration list for PBXNativeTarget "RegisterForm" */;
 			buildPhases = (
-				49DCCC44282CEDDC00C082F4 /* Sources */,
-				49DCCC45282CEDDC00C082F4 /* Frameworks */,
-				49DCCC46282CEDDC00C082F4 /* Resources */,
+				49AC1F5228367BB20068D54D /* Sources */,
+				49AC1F5328367BB20068D54D /* Frameworks */,
+				49AC1F5428367BB20068D54D /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = VisualBookManager;
-			productName = VisualBookManager;
-			productReference = 49DCCC48282CEDDC00C082F4 /* VisualBookManager.app */;
+			name = RegisterForm;
+			productName = RegisterForm;
+			productReference = 49AC1F5628367BB20068D54D /* RegisterForm.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		49DCCC40282CEDDB00C082F4 /* Project object */ = {
+		49AC1F4E28367BB20068D54D /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
-				LastSwiftUpdateCheck = 1330;
-				LastUpgradeCheck = 1330;
+				LastSwiftUpdateCheck = 1340;
+				LastUpgradeCheck = 1340;
 				TargetAttributes = {
-					49DCCC47282CEDDC00C082F4 = {
-						CreatedOnToolsVersion = 13.3.1;
+					49AC1F5528367BB20068D54D = {
+						CreatedOnToolsVersion = 13.4;
 					};
 				};
 			};
-			buildConfigurationList = 49DCCC43282CEDDB00C082F4 /* Build configuration list for PBXProject "VisualBookManager" */;
+			buildConfigurationList = 49AC1F5128367BB20068D54D /* Build configuration list for PBXProject "RegisterForm" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -116,57 +110,55 @@
 				en,
 				Base,
 			);
-			mainGroup = 49DCCC3F282CEDDB00C082F4;
-			productRefGroup = 49DCCC49282CEDDC00C082F4 /* Products */;
+			mainGroup = 49AC1F4D28367BB20068D54D;
+			productRefGroup = 49AC1F5728367BB20068D54D /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				49DCCC47282CEDDC00C082F4 /* VisualBookManager */,
+				49AC1F5528367BB20068D54D /* RegisterForm */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		49DCCC46282CEDDC00C082F4 /* Resources */ = {
+		49AC1F5428367BB20068D54D /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				49DCCC58282CEDDE00C082F4 /* LaunchScreen.storyboard in Resources */,
-				49DCCC55282CEDDE00C082F4 /* Assets.xcassets in Resources */,
-				49DCCC53282CEDDC00C082F4 /* Main.storyboard in Resources */,
+				49AC1F6628367BB30068D54D /* LaunchScreen.storyboard in Resources */,
+				49AC1F6328367BB30068D54D /* Assets.xcassets in Resources */,
+				49AC1F6128367BB20068D54D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		49DCCC44282CEDDC00C082F4 /* Sources */ = {
+		49AC1F5228367BB20068D54D /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				49DCCC50282CEDDC00C082F4 /* ViewController.swift in Sources */,
-				49DCCC4C282CEDDC00C082F4 /* AppDelegate.swift in Sources */,
-				49DCCC64282CF50B00C082F4 /* Book.swift in Sources */,
-				49DCCC63282CF50B00C082F4 /* BookManager.swift in Sources */,
-				49DCCC4E282CEDDC00C082F4 /* SceneDelegate.swift in Sources */,
+				49AC1F5E28367BB20068D54D /* ViewController.swift in Sources */,
+				49AC1F5A28367BB20068D54D /* AppDelegate.swift in Sources */,
+				49AC1F5C28367BB20068D54D /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		49DCCC51282CEDDC00C082F4 /* Main.storyboard */ = {
+		49AC1F5F28367BB20068D54D /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				49DCCC52282CEDDC00C082F4 /* Base */,
+				49AC1F6028367BB20068D54D /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		49DCCC56282CEDDE00C082F4 /* LaunchScreen.storyboard */ = {
+		49AC1F6428367BB30068D54D /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				49DCCC57282CEDDE00C082F4 /* Base */,
+				49AC1F6528367BB30068D54D /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -174,7 +166,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		49DCCC5A282CEDDE00C082F4 /* Debug */ = {
+		49AC1F6828367BB30068D54D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -224,7 +216,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -234,7 +226,7 @@
 			};
 			name = Debug;
 		};
-		49DCCC5B282CEDDE00C082F4 /* Release */ = {
+		49AC1F6928367BB30068D54D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -278,7 +270,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -288,7 +280,7 @@
 			};
 			name = Release;
 		};
-		49DCCC5D282CEDDE00C082F4 /* Debug */ = {
+		49AC1F6B28367BB30068D54D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -297,7 +289,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = AW5HC5SGGG;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = VisualBookManager/Info.plist;
+				INFOPLIST_FILE = RegisterForm/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -308,7 +300,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = kr.dongdong.VisualBookManager;
+				PRODUCT_BUNDLE_IDENTIFIER = kr.dongdong.RegisterForm;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -316,7 +308,7 @@
 			};
 			name = Debug;
 		};
-		49DCCC5E282CEDDE00C082F4 /* Release */ = {
+		49AC1F6C28367BB30068D54D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -325,7 +317,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = AW5HC5SGGG;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = VisualBookManager/Info.plist;
+				INFOPLIST_FILE = RegisterForm/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -336,7 +328,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = kr.dongdong.VisualBookManager;
+				PRODUCT_BUNDLE_IDENTIFIER = kr.dongdong.RegisterForm;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -347,25 +339,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		49DCCC43282CEDDB00C082F4 /* Build configuration list for PBXProject "VisualBookManager" */ = {
+		49AC1F5128367BB20068D54D /* Build configuration list for PBXProject "RegisterForm" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				49DCCC5A282CEDDE00C082F4 /* Debug */,
-				49DCCC5B282CEDDE00C082F4 /* Release */,
+				49AC1F6828367BB30068D54D /* Debug */,
+				49AC1F6928367BB30068D54D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		49DCCC5C282CEDDE00C082F4 /* Build configuration list for PBXNativeTarget "VisualBookManager" */ = {
+		49AC1F6A28367BB30068D54D /* Build configuration list for PBXNativeTarget "RegisterForm" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				49DCCC5D282CEDDE00C082F4 /* Debug */,
-				49DCCC5E282CEDDE00C082F4 /* Release */,
+				49AC1F6B28367BB30068D54D /* Debug */,
+				49AC1F6C28367BB30068D54D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 49DCCC40282CEDDB00C082F4 /* Project object */;
+	rootObject = 49AC1F4E28367BB20068D54D /* Project object */;
 }
